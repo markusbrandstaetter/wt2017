@@ -1,18 +1,18 @@
-Hochschule Rosenheim
-Fakultät für Informatik
-Prof. Dr. Korbinian Riedhammer
-PstA Webtechnologie WS17/18
-"Message-Board"
-Reza Nayeri & Markus Brandstätter
-
-Tools Frontend:
-node.js Vue.js
-
-Tools Backend:
-Java SpringBoot 
-
-Tools Storage:
-MongoDB
-
-Security:
+Hochschule Rosenheim<br>
+Fakultät für Informatik<br>
+Prof. Dr. Korbinian Riedhammer<br>
+PstA Webtechnologie WS17/18<br>
+"Message-Board"<br>
+Reza Nayeri & Markus Brandstätter<br>
+<br>
+Tools Frontend:<br>
+node.js Vue.js<br>
+<br>
+Tools Backend:<br>
+Java SpringBoot<br>
+<br>
+Tools Storage:<br>
+MongoDB<br>
+<br>
+Security:<br>
 Google OAuth2
