@@ -9,7 +9,7 @@ Tools Frontend:<br>
 node.js Vue.js<br>
 <br>
 Tools Backend:<br>
-Java SpringBoot<br>
+Java SpringBootStarter<br>
 <br>
 Tools Storage:<br>
 MongoDB<br>
